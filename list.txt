@@ -4,3 +4,5 @@ santa
 pineapple
 apple
 cereal
+cucumbers
+radish
